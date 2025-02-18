@@ -1,6 +1,6 @@
-# Simplified Lyrebird Consultation Application
+# Consultation Transcription Application
 
-A simplified lyrebird consultation transcribing application showcasing my ability in software development. It ensures reliable, concurrent data transmission and handles various edge cases for smooth performance.
+A consultation transcribing application showcasing my ability in software development. It ensures reliable, concurrent data transmission and handles various edge cases for smooth performance.
 
 ---
 
@@ -21,10 +21,10 @@ A simplified lyrebird consultation transcribing application showcasing my abilit
     - Docker is not used to simplify setup.
 2. **Steps to Run**:
     - Unzip the project
-    - Open the first terminal and navigate to the consultation-transcribing/backend directory
+    - Open the first terminal and navigate to the [backend](https://github.com/any0110001/consultation-backend) directory
     - Run the following command in the terminal:
       `npm install && npm run start` 
-    - Then open another terminal and navigate to the consultation-transcribing/frontend directory
+    - Then open another terminal and navigate to the [frontend](https://github.com/any0110001/consultation-frontend) directory
     - Run the following command in the terminal:
       `npm install && npm run build && npm run start`
 	- The application will be accessible at `http://localhost:3000`:
@@ -50,8 +50,6 @@ A simplified lyrebird consultation transcribing application showcasing my abilit
 
 ---
 
-================================================================
-Below are some detailed information we might be discussing during the interview session. So they can be ignored :)
 ## Assumptions
 
 1. **Audio Storage**:
